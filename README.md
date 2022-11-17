@@ -5,7 +5,7 @@ This is the central location to find information, rules and updates about the Mi
 All links, IP addresses, etc. can be found within the Miney Crafters section of the Mingleton server. This can be distributed privately, but public distribution is not allowed.
 
 ## Rules
-- No hate speech, racism, sexism, etc. etc. in the chat or towards other players.
+- No hate speech, racism, sexism, etc. in the chat or towards other players.
 - No griefing of property or people. Pranks are allowed, but they must be harmless, or be prepared to help the people affected recover to an equivalent or better standard.
 - No cheating (flying, xrays, etc.)
 - Avoid constructing large, power-consuming farms or projects without prior approval from one of the Discord server moderators. The server is powerful, but not infinitely so, and we need to be mindful that we share this server with our friends over at STiBaRC :)
@@ -44,6 +44,7 @@ These are changes/improvements to crafting:
 - **Multiplayer sleep** - 50% of the overworld's population needs to sleep to skip the night
 - **More mob heads** - Mobs have a chance of dropping their head upon death
 - **Silence mobs** - Naming a mob "silence me" will cause it to no longer make noise
+- **Cauldron concrete** - Dropping concrete powder into a cauldron of water will turn it into hardened concrete
 - **Name colours** - Set your name to a different colour in chat
 - **Kill empty boats** - [admin only] - Helps us remove empty boats
 - **Unlock all recipes** - Instantly unlocks all crafting recipes upon first joining the server
